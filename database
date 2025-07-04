@@ -1,0 +1,15 @@
+#creating database
+'''
+create database student_db;
+'''
+
+
+
+#creating table
+'''
+create table student(
+id int Primary Key Not Null,
+name varchar(100),
+age int ,
+course varchar(100));
+'''
